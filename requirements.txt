@@ -1,0 +1,4 @@
+# This project has been tested with Python 3.10.12
+jupyterlab==4.2.4
+pandas==2.2.2
+matplotlib==3.9.1
