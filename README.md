@@ -1,4 +1,4 @@
-# Data science partial exam: Country Quality of Life Analysis
+# Data science partial exam: Country quality of life analysis
 
 This Jupyter Notebook analyzes various countries to determine the best places to live based on different life stages. Using data from Gapminder, we evaluate countries for:
 
